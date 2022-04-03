@@ -12,7 +12,7 @@ Setup the config.json based on https://github.com/rdeepak2002/reddit-place-scrip
 
 ## Windows: 
 
-download and install python 3 - https://www.liquidweb.com/kb/how-to-install-python-on-windows/
+download and install python 3 - https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe
 
 download and install python pip 3 - https://www.liquidweb.com/kb/install-pip-windows/
 
