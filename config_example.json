@@ -1,19 +1,16 @@
 {
     "image_path": "image.png",
-    "image_start_coords": [1963, 350],
+    "image_start_coords": [1493, 901],
     "thread_delay": 2,
-    "unverified_place_frequency": "False",
+    "unverified_place_frequency": false,
+    "compact_logging": true,
     "workers": {
         "worker1username": {
             "password": "password",
-            "client_id": "clientid",
-            "client_secret": "clientsecret",
             "start_coords": [0, 0]
         },
         "worker2username": {
             "password": "password",
-            "client_id": "clientid",
-            "client_secret": "clientsecret",
             "start_coords": [0, 0]
         }
     }
