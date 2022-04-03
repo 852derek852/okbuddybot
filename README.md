@@ -8,7 +8,7 @@ Setup the config.json based on https://github.com/rdeepak2002/reddit-place-scrip
 
 ## linux:
 
-```./startokbuddybot.sh```
+```chmod +x startokbuddybot.sh && ./startokbuddybot.sh```
 
 ## Windows: 
 
